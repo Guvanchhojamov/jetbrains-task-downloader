@@ -1,6 +1,7 @@
 # Parallel File Downloader
 
 A simple Kotlin tool that downloads files in parallel chunks using HTTP `Range` requests. 
+
 Built with JetBrains, for JetBrains SDK Engineering :)
 
 ## Features
