@@ -10,9 +10,9 @@ repositories {
 }
 
 dependencies {
-    testImplementation(kotlin("test"))
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0")
     testImplementation("com.squareup.okhttp3:mockwebserver:4.12.0")
+    testImplementation(kotlin("test"))
 }
 
 kotlin {
